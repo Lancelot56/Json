@@ -3,9 +3,9 @@
         {
             "id":1,
             "Nom":"Ampoule LED",
-            "Description":"éclairage à 100 m ",
+            "Description":"éclairage à 100 mètres ",
             "Disponibilité":true,
-            "Prix":170,
+            "Prix":270,
             "Categorie":"Optiques de luxe"
         },
         {
