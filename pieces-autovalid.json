@@ -3,9 +3,9 @@
         {
             "id":1,
             "Nom":"Ampoule LED",
-            "Description":"éclairage à 100 mètres ",
+            "Description":"éclairage à 100 m ",
             "Disponibilité":true,
-            "Prix":270,
+            "Prix":170,
             "Categorie":"Optiques de luxe"
         },
         {
@@ -13,7 +13,7 @@
             "Nom":"Plaquettes de frein (x4)",
             "Description":"Qualité de freinage par tout temps ",
             "Disponibilité":true,
-            "Prix":150,
+            "Prix":1150,
             "Categorie":"Freinage"
         },
         {
