@@ -5,7 +5,7 @@
             "Nom":"Ampoule LED",
             "Description":"éclairage à 100 m ",
             "Disponibilité":true,
-            "Prix":170,
+            "Prix":1700,
             "Categorie":"Optiques de luxe"
         },
         {
@@ -13,15 +13,15 @@
             "Nom":"Plaquettes de frein (x4)",
             "Description":"Qualité de freinage par tout temps ",
             "Disponibilité":true,
-            "Prix":11500,
+            "Prix":1150,
             "Categorie":"Freinage"
         },
         {
             "id":3,
             "Nom":"Ampoule boîte à gants",
-            "Description":"Pour y voir clair clairement",
+            "Description":"Pour y voir clair",
             "Disponibilité":false,
-            "Prix":1.49,
+            "Prix":15.49,
             "Categorie":"Optiques"
         },
         {
